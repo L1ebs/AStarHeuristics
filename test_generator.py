@@ -4,7 +4,7 @@ import random
 
 #----------------------------------------------------------------------------------------------
 
-dir_path = '/common/home/tma105/cs440/Project 1/Test_Cases'
+dir_path = '/home/liebs/Documents/Astar/'
 
 
 # Get the number of files requested from the user
